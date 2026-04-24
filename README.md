@@ -1,0 +1,2 @@
+# rc.enora
+hi
